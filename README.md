@@ -7,7 +7,7 @@ Move to package.json in node.js command line.
 
 Eexecute the commands
 
-npm install
-node server.js
+1)npm install
+2)node server.js
 
 Please open frontend folder and run index.html in browser.
